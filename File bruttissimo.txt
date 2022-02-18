@@ -1,3 +1,5 @@
 Ciao
 
 come ti chiami?
+
+Funzione 2
